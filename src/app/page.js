@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <main className="flex flex-col min-h-screen min-w-screen justify-start bg-black">
       <div className="w-full flex justify-center mt-12">
-        <h1 className="font-bold text-3xl select-none">Quais são as top 10 capacidades solicitadas do profissional de T.I?</h1>
+        <h1 className="font-bold text-3xl select-none text-white">Quais são as top 10 capacidades solicitadas do profissional de T.I?</h1>
       </div>
       <div className="flex w-full grow items-center justify-center">
         <div className="grid grid-cols-2 grid-rows-5 gap-10 w-full col-span-5 justify-items-center place-items-center">
