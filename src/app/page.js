@@ -16,34 +16,34 @@ export default function Home() {
       <div className="flex w-full grow items-center justify-center">
         <div className="grid grid-cols-2 grid-rows-5 gap-10 w-full col-span-5 justify-items-center place-items-center">
           <div className="bg-white rounded-md p-3 w-96 text-center" onClick={e => handleReveal(e)}>
-            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Teste</span>
+            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Programação Básica</span>
           </div>
           <div className="bg-white rounded-md p-3 w-96 text-center" onClick={e => handleReveal(e)}>
-            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Teste</span>
+            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Design UX/UA</span>
           </div>
           <div className="bg-white rounded-md p-3  w-96 text-center" onClick={e => handleReveal(e)}>
-            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Teste</span>
+            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Engenharia de Dados</span>
           </div>
           <div className="bg-white rounded-md p-3  w-96 text-center" onClick={e => handleReveal(e)} >
-            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Teste</span>
+            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Data Visualization</span>
           </div>
           <div className="bg-white rounded-md p-3  w-96 text-center" onClick={e => handleReveal(e)}>
-            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Teste</span>
+            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Edição de vídeo</span>
           </div>
           <div className="bg-white rounded-md p-3  w-96 text-center" onClick={e => handleReveal(e)}>
-            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Teste</span>
+            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Organização</span>
           </div>
           <div className="bg-white rounded-md p-3  w-96 text-center" onClick={e => handleReveal(e)}>
-            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Teste</span>
+            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Autoconfiança</span>
           </div>
           <div className="bg-white rounded-md p-3  w-96 text-center" onClick={e => handleReveal(e)}>
-            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Teste</span>
+            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Trabalho em equipe</span>
           </div>
           <div className="bg-white rounded-md p-3  w-96 text-center" onClick={e => handleReveal(e)}>
-            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Teste</span>
+            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Relacionamento interpessoal</span>
           </div>
           <div className="bg-white rounded-md p-3  w-96 text-center" onClick={e => handleReveal(e)}>
-            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Item 10</span>
+            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Liderança</span>
           </div>
         </div>
       </div>
