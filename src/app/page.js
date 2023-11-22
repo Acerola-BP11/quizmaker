@@ -40,7 +40,7 @@ export default function Home() {
             <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Trabalho em equipe</span>
           </div>
           <div className="bg-white rounded-md p-3  w-96 text-center" onClick={e => handleReveal(e)}>
-            <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Relacionamento interpessoal</span>
+            <span className="text-3xl select-none pointer-events-none" style={{ color: 'white' }}>Relacionamento interpessoal</span>
           </div>
           <div className="bg-white rounded-md p-3  w-96 text-center" onClick={e => handleReveal(e)}>
             <span className="text-4xl select-none pointer-events-none" style={{ color: 'white' }}>Liderança</span>
