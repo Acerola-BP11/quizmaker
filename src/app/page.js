@@ -9,7 +9,7 @@ export default function Home() {
     }
   }
   return (
-    <main className="flex flex-col min-h-screen min-w-screen justify-start">
+    <main className="flex flex-col min-h-screen min-w-screen justify-start bg-black">
       <div className="w-full flex justify-center mt-12">
         <h1 className="font-bold text-3xl select-none">Quais são as top 10 capacidades solicitadas do profissional de T.I?</h1>
       </div>
